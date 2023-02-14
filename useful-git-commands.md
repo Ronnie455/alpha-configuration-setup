@@ -18,3 +18,7 @@
 - local - your personal computer
 -c ommit - adding a tracking number and message to your version
 - diff - the difference between states of your local and Github repository
+
+## Practice
+
+- file change - Practice #1
