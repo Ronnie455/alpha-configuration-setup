@@ -23,7 +23,6 @@
 
 - practice - Practice #1
 - practice - #2
-- practice - #3
 
 ### Notes about branching
 - Branching protects your code from errors that can cause your app to be down in production
